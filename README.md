@@ -16,3 +16,5 @@ Recently, SocialTech Enterprises has been facing increasing scrutiny and public 
 Amidst these concerns, Sarah Mitchell, the CEO of SocialTech Enterprises, has taken a proactive approach to address this challenge. She believes that technology, when used thoughtfully, can enhance lives and well-being.
 
 The goal is to provide SocialTech Enterprises with data-informed insights and actionable recommendations that _will enable the company to create and maintain an online environment that promotes better mental health and well-being among its users_.
+
+I used this data set here: https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health
