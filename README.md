@@ -18,3 +18,5 @@ Amidst these concerns, Sarah Mitchell, the CEO of SocialTech Enterprises, has ta
 The goal is to provide SocialTech Enterprises with data-informed insights and actionable recommendations that _will enable the company to create and maintain an online environment that promotes better mental health and well-being among its users_.
 
 I used this data set here: https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health
+
+The full project can be found on my medium blog: medium.com/@serenahinton
