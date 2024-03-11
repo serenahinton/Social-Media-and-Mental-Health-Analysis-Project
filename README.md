@@ -1,6 +1,6 @@
 # Social Media Analysis: Google Data Analytics Certification Capstone Project
 
-The Google Data Analytics Professional Certificate Capstone project is a case study. The program offered two tracks that offered either a case study provided by the program or the option to create our own. I chose to create my own since this was my first project and I wanted the practice.
+The Google Data Analytics Professional Certificate Capstone project is a case study. The program offered two tracks that offered either a case study provided by the program or the option to create our own. I created my own since this was my first project and I wanted the practice. This is a mock scenario and a made-up company.
 
 The project covers each step of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
 
