@@ -19,4 +19,4 @@ The goal is to provide SocialTech Enterprises with data-informed insights and ac
 
 I used this data set here: https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health
 
-The full project can be found on my medium blog: medium.com/@serenahinton
+The full project can be found on my medium blog: https://medium.com/@serenahinton
