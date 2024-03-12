@@ -28,22 +28,22 @@ I used Python to process and visualize the data.
  
  Mental Health Screening Questions scored with Likert Scale: 1(low)–5(high) with 60 points being the highest possible total score: 
   
-   *ADHD: 4 Questions, 20 point possible
+   *  ADHD: 4 Questions, 20 point possible
     How often do you find yourself using Social media without a specific purpose?
     How often do you get distracted by Social media when you are busy doing something?
     On a scale of 1 to 5, how easily distracted are you?
     Do you find it difficult to concentrate on things?
    
-   Anxiety: 2 Questions, 10 point possible
+   *  Anxiety: 2 Questions, 10 point possible
     Do you feel restless if you haven't used Social media in a while?
     On a scale of 1 to 5, how much are you bothered by worries?'
   
-   Depression: 3 Questions, 15 points possible
+   *  Depression: 3 Questions, 15 points possible
     How often do you feel depressed or down?':' Depression Q1',
     On a scale of 1 to 5, how frequently does your interest in daily activities fluctuate?': 'Depression Q2',
     On a scale of 1 to 5, how often do you face issues regarding sleep?':' Depression Q3' 
   
-   Self-Esteem: 3 Questions, 15 points possible
+   *  Self-Esteem: 3 Questions, 15 points possible
     On a scale of 1-5, how often do you compare yourself to other successful people through the use of social media?':' Self Esteem Q1',
     Following the previous question, how do you feel about these comparisons, generally speaking?':' Self Esteem Q2',
     How often do you look to seek validation from features of social media?': 'Self Esteem Q3',
