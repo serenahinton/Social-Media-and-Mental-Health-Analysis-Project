@@ -29,24 +29,24 @@ I used Python to process and visualize the data.
  Mental Health Screening Questions scored with Likert Scale: 1(low)–5(high) with 60 points being the highest possible total score: 
   
    *  ADHD: 4 Questions, 20 point possible
-    How often do you find yourself using Social media without a specific purpose?
-    How often do you get distracted by Social media when you are busy doing something?
-    On a scale of 1 to 5, how easily distracted are you?
-    Do you find it difficult to concentrate on things?
+      *  How often do you find yourself using Social media without a specific purpose?
+      *  How often do you get distracted by Social media when you are busy doing something?
+      *  On a scale of 1 to 5, how easily distracted are you?
+      *  Do you find it difficult to concentrate on things?
    
    *  Anxiety: 2 Questions, 10 point possible
       *  Do you feel restless if you haven't used Social media in a while?
       *  On a scale of 1 to 5, how much are you bothered by worries?'
   
    *  Depression: 3 Questions, 15 points possible
-    *  How often do you feel depressed or down?
-    *  On a scale of 1 to 5, how frequently does your interest in daily activities fluctuate?
-    *  On a scale of 1 to 5, how often do you face issues regarding sleep?
+      *  How often do you feel depressed or down?
+      *  On a scale of 1 to 5, how frequently does your interest in daily activities fluctuate?
+      *  On a scale of 1 to 5, how often do you face issues regarding sleep?
   
    *  Self-Esteem: 3 Questions, 15 points possible
-    *  On a scale of 1-5, how often do you compare yourself to other successful people through the use of social media?
-    *  Following the previous question, how do you feel about these comparisons, generally speaking?
-    *  How often do you look to seek validation from features of social media?
+      *  On a scale of 1-5, how often do you compare yourself to other successful people through the use of social media?
+      *  Following the previous question, how do you feel about these comparisons, generally speaking?
+      *  How often do you look to seek validation from features of social media?
 
 The dataset lacks predefined intervals for categorizing scores into mild, moderate, or severe categories based on the total score. To provide clarity, I will designate scores below 20 as mild, scores from 21 to 40 as moderate, and scores from 41 to 60 as severe.
 
