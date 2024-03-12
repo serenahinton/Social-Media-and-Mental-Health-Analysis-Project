@@ -21,10 +21,10 @@ I used Python to process and visualize the data.
 
 ### Columns include:
  
- *Demographics: Age, Occupation, Organization Affiliation, Gender, Relationship Status
- *Mental Health Screening Questions for ADHD, Anxiety, Depression, and Self-esteem
- *Number of Hours Spent on Social Media
- *Types of Social Media Platforms Used
+ *  Demographics: Age, Occupation, Organization Affiliation, Gender, Relationship Status
+ *  Mental Health Screening Questions for ADHD, Anxiety, Depression, and Self-esteem
+ *  Number of Hours Spent on Social Media
+ *  Types of Social Media Platforms Used
  
  Mental Health Screening Questions scored with Likert Scale: 1(low)–5(high) with 60 points being the highest possible total score: 
   
