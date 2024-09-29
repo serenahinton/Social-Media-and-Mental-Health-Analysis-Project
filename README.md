@@ -52,4 +52,4 @@ The dataset lacks predefined intervals for categorizing scores into mild, modera
 
 I used this data set here: https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health
 
-The full project can be found on my medium blog: https://medium.com/@serenahinton
+The full project can be found on my medium blog: https://serenahinton.medium.com/data-analytics-projec-f9aa8ef7086e
